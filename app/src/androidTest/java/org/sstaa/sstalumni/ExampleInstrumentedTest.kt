@@ -1,4 +1,4 @@
-package org.sstaa.SST_Alumni
+package org.sstaa.sstalumni
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("org.sstaa.SST_Alumni", appContext.packageName)
+        assertEquals("org.sstaa.sstalumni", appContext.packageName)
     }
 }

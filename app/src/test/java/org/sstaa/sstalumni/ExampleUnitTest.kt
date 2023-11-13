@@ -1,4 +1,4 @@
-package org.sstaa.SST_Alumni
+package org.sstaa.sstalumni
 
 import org.junit.Test
 
