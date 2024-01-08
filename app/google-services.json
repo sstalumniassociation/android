@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "717632543205",
+    "firebase_url": "https://sstaa-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sstaa-app",
+    "storage_bucket": "sstaa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717632543205:android:910e2038a00b1b599cf70c",
+        "android_client_info": {
+          "package_name": "org.sstaa.SST_Alumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717632543205-rni6g21icmvjqvc4jkfnpnnuqa6113rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cHkr5zEzrQxppu1_mQkF-z_YDXwL24U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717632543205-rni6g21icmvjqvc4jkfnpnnuqa6113rr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "717632543205-44efh4v833026v1tseun16goilmppiuf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.sstaa.SSTAARS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
